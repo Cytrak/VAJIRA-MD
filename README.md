@@ -45,7 +45,7 @@
 
 ***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
 
-***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
+***Click [My web](https://vajira-api-7967fdc12a8.herokuapp.com/)***
 
 <hr>
 
